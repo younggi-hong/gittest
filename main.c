@@ -2,8 +2,8 @@
 
 int main(void)
 {
-	int i = 0;
-	printf("Hello world %d\n", 0);
+	int i = 55;
+	printf("Hello world %d\n", i);
 	return 0;
 }
 
