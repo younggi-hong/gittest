@@ -1,5 +1,3 @@
-My Project
+Git Test!!
 
-written by yghong!!!
-->
 
